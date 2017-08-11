@@ -57,7 +57,7 @@ $lockdir = "C:\Users\Administrator\Desktop\VideoUpload\lock" #Where we store the
 $recurse = $true #Set to $false to only upload files in the root of the above directory
 $retries = 3 #Number of times to retry the upload if it fails - after that we move on to the next file
 $gdriveconfigpath = "C:\Users\Administrator\Desktop\VideoUpload\.gdrive" #assuming a .grive folder in the same directory of the script
-$encryption_key = "c0lL^r^Ri^8W%geL4X6oiDIx5MqzGm5m4%R1Z1YhDUrAhwn*LK" #randomly generate this!
+$encryption_key = "abcd" #randomly generate this!
 $upload_directory = "0B76apqWYV3oMYUFBTmY3bGJVUHc" #The ID of the directory we are uploading to
 
 # - ************************************************************************************************
